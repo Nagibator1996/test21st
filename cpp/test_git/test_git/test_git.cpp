@@ -1,12 +1,11 @@
 ﻿#include <iostream>
-#include <string>
 
-void Print(std::string text)
+void Print()
 {
-    std::cout << text;
+    std::cout << "hello";
 }
 
 int main()
 {
-    Print("Hello");
+    Print();
 }
