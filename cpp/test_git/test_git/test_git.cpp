@@ -9,4 +9,5 @@ void Print(std::string text)
 int main()
 {
     Print("Hello");
+    Print("Hello my Friends")
 }
