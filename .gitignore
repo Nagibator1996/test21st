@@ -1,0 +1,10 @@
+
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+cpp/test_git/test_git/test_git.vcxproj
+*.filters
+*.user
+*.sln
