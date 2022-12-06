@@ -12,3 +12,4 @@ int main()
     Print("Hello");
     Print("Hello my Friends!");
 }
+
