@@ -1,13 +1,14 @@
 ﻿#include <iostream>
 #include <string>
 
-void Print(std::string text)
+bool Print(std::string text)
 {
     std::cout << text;
+    return 0;
 }
 
 int main()
 {
     Print("Hello");
-    Print("Hello my Friends!")
+    Print("Hello my Friends!");
 }
