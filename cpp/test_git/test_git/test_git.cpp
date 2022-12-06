@@ -1,6 +1,12 @@
 ﻿#include <iostream>
+#include <string>
+
+void Print(std::string text)
+{
+    std::cout << text;
+}
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Print("Hello");
 }
